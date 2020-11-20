@@ -1,0 +1,9 @@
+D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\bin\Debug\netcoreapp3.1\lib1.deps.json
+D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\bin\Debug\netcoreapp3.1\lib1.dll
+D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\bin\Debug\netcoreapp3.1\lib1.pdb
+D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Debug\netcoreapp3.1\lib1.csprojAssemblyReference.cache
+D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Debug\netcoreapp3.1\lib1.AssemblyInfoInputs.cache
+D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Debug\netcoreapp3.1\lib1.AssemblyInfo.cs
+D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Debug\netcoreapp3.1\lib1.csproj.CoreCompileInputs.cache
+D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Debug\netcoreapp3.1\lib1.dll
+D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Debug\netcoreapp3.1\lib1.pdb
