@@ -15,6 +15,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Globalization;
 using lib1;
 
 namespace wpf1
@@ -105,5 +106,26 @@ namespace wpf1
             string st = Trigon.SelectedIndex.ToString();
             n = Convert.ToInt32(st);
         }
+
+        private void Button_Click_en(object sender, RoutedEventArgs e)
+        {
+            CultureInfo lang = new CultureInfo("en-US");
+            if (lang != null)
+            {
+                App.Language = lang;
+            }
+        }
+
+        private void Button_Click_ru(object sender, RoutedEventArgs e)
+        {
+            CultureInfo lang = new CultureInfo("ru-RU");
+            if (lang != null)
+            {
+                App.Language = lang;
+            }
+        }
+
+
+
     }
 }

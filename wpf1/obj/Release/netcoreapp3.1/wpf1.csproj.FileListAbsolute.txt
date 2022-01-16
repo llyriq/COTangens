@@ -20,3 +20,32 @@ D:\lliri\Desktop\Учеба\Программирование\lab_sr\wpf1\obj\Rel
 D:\lliri\Desktop\Учеба\Программирование\lab_sr\wpf1\obj\Release\netcoreapp3.1\wpf1.dll
 D:\lliri\Desktop\Учеба\Программирование\lab_sr\wpf1\obj\Release\netcoreapp3.1\wpf1.pdb
 D:\lliri\Desktop\Учеба\Программирование\lab_sr\wpf1\obj\Release\netcoreapp3.1\wpf1.genruntimeconfig.cache
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\bin\Release\netcoreapp3.1\wpf1.exe
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\bin\Release\netcoreapp3.1\wpf1.deps.json
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\bin\Release\netcoreapp3.1\wpf1.runtimeconfig.json
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\bin\Release\netcoreapp3.1\wpf1.runtimeconfig.dev.json
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\bin\Release\netcoreapp3.1\wpf1.dll
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\bin\Release\netcoreapp3.1\wpf1.pdb
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\bin\Release\netcoreapp3.1\lib1.dll
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\bin\Release\netcoreapp3.1\lib1.pdb
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.csproj.AssemblyReference.cache
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\MainWindow.g.cs
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\App.g.cs
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1_MarkupCompile.cache
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1_MarkupCompile.lref
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\MainWindow.baml
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.g.resources
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.AssemblyInfoInputs.cache
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.AssemblyInfo.cs
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.csproj.CoreCompileInputs.cache
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.csproj.CopyComplete
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.dll
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.pdb
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.genruntimeconfig.cache
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\Resources\lang.baml
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\App.baml
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\Resources\lang.en-US.baml
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\bin\Release\netcoreapp3.1\wpf1.dll.config
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.Properties.Resources.resources
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\wpf1.csproj.GenerateResource.cache

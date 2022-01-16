@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\lliri\Desktop\Учеба\Программирование\lab_sr\wpf1\obj\Release\netcoreapp3.1\
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\obj\Release\netcoreapp3.1\
 wpf1
 none
 false
-TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1
-D:\lliri\Desktop\Учеба\Программирование\lab_sr\wpf1\App.xaml
-11151548125
+TRACE;RELEASE;NETCOREAPP;NETCOREAPP3_1;
+D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\App.xaml
+3-488689856
 
-5-912052149
-193-1668997378
-MainWindow.xaml;
+7-1136391986
+193-1420018088
+MainWindow.xaml;Resources\lang.en-US.xaml;Resources\lang.xaml;
 
 False
 

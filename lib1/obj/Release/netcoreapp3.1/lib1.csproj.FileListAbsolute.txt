@@ -7,3 +7,13 @@ D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Rel
 D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Release\netcoreapp3.1\lib1.csproj.CoreCompileInputs.cache
 D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Release\netcoreapp3.1\lib1.dll
 D:\lliri\Desktop\Учеба\Программирование\lab_sr\lib1\obj\Release\netcoreapp3.1\lib1.pdb
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\bin\Release\netcoreapp3.1\lib1.deps.json
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\bin\Release\netcoreapp3.1\lib1.dll
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\bin\Release\netcoreapp3.1\lib1.pdb
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\obj\Release\netcoreapp3.1\lib1.csproj.AssemblyReference.cache
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\obj\Release\netcoreapp3.1\lib1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\obj\Release\netcoreapp3.1\lib1.AssemblyInfoInputs.cache
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\obj\Release\netcoreapp3.1\lib1.AssemblyInfo.cs
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\obj\Release\netcoreapp3.1\lib1.csproj.CoreCompileInputs.cache
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\obj\Release\netcoreapp3.1\lib1.dll
+D:\Stud\2 курс\Среды визуального программирования\COTangens\lib1\obj\Release\netcoreapp3.1\lib1.pdb

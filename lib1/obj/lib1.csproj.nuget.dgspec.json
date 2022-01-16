@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "D:\\lliri\\Desktop\\Учеба\\Программирование\\lab_sr\\lib1\\lib1.csproj": {}
+    "D:\\Stud\\2 курс\\Среды визуального программирования\\COTangens\\lib1\\lib1.csproj": {}
   },
   "projects": {
-    "D:\\lliri\\Desktop\\Учеба\\Программирование\\lab_sr\\lib1\\lib1.csproj": {
+    "D:\\Stud\\2 курс\\Среды визуального программирования\\COTangens\\lib1\\lib1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\lliri\\Desktop\\Учеба\\Программирование\\lab_sr\\lib1\\lib1.csproj",
+        "projectUniqueName": "D:\\Stud\\2 курс\\Среды визуального программирования\\COTangens\\lib1\\lib1.csproj",
         "projectName": "lib1",
-        "projectPath": "D:\\lliri\\Desktop\\Учеба\\Программирование\\lab_sr\\lib1\\lib1.csproj",
+        "projectPath": "D:\\Stud\\2 курс\\Среды визуального программирования\\COTangens\\lib1\\lib1.csproj",
         "packagesPath": "C:\\Users\\lliri\\.nuget\\packages\\",
-        "outputPath": "D:\\lliri\\Desktop\\Учеба\\Программирование\\lab_sr\\lib1\\obj\\",
+        "outputPath": "D:\\Stud\\2 курс\\Среды визуального программирования\\COTangens\\lib1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "D:\\Program Files (x86)\\Visual Studio\\Новая папка\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\lliri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -26,6 +30,7 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -37,6 +42,7 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

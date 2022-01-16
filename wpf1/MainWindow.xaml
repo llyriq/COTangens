@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:wpf1"
         mc:Ignorable="d"
-        Title="КОТангенс" Height="340
+        Title="{DynamicResource MTitle}" Height="340
         " Width="574">
     <Grid Margin="0,0,0,0">
         <Grid.ColumnDefinitions>
@@ -13,7 +13,7 @@
             <ColumnDefinition Width="75*"/>
         </Grid.ColumnDefinitions>
 
-        <Image Margin="-2,0,0,19" Stretch="Fill" Source="D:\lliri\Desktop\Учеба\Программирование\lab_sr\wpf1\maxresdefault.jpg" Grid.ColumnSpan="2"/>
+        <Image Margin="-12,0,-17,22" Stretch="Fill" Source="D:\Stud\2 курс\Среды визуального программирования\COTangens\wpf1\maxresdefault.jpg" Grid.ColumnSpan="2"/>
 
         <TextBox x:Name="Angle" HorizontalAlignment="Left" Margin="10,61,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="116" Grid.ColumnSpan="2" Foreground="White" FontFamily="Comic Sans MS" >
             <TextBox.Background>
@@ -24,9 +24,9 @@
                 </LinearGradientBrush>
             </TextBox.Background>
         </TextBox>
-        <Button x:Name="button" Content="Посчитать" HorizontalAlignment="Left" Margin="190,212,0,0" VerticalAlignment="Top" Click="button_Click" Grid.Column="1" Background="#FFCB0C0C"/>
+        <Button x:Name="button" Content="{DynamicResource Button_res}" HorizontalAlignment="Left" Margin="190,212,0,0" VerticalAlignment="Top" Click="button_Click" Grid.Column="1" Background="#FFCB0C0C"/>
 
-        <Label x:Name="Title" Content="Введите угол:" HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top" Width="116" AutomationProperties.Name="1" Foreground="White" FontFamily="Comic Sans MS" FontSize="14" Grid.ColumnSpan="2">
+        <Label x:Name="Title" Content="{DynamicResource An_text}" HorizontalAlignment="Left" Margin="10,26,0,0" VerticalAlignment="Top" Width="116" AutomationProperties.Name="1" Foreground="White" FontFamily="Comic Sans MS" FontSize="14" Grid.ColumnSpan="2">
             <Label.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black" Offset="1"/>
@@ -35,7 +35,7 @@
                 </LinearGradientBrush>
             </Label.Background>
         </Label>
-        <Label Content="Выберите операцию:" Grid.Column="1" HorizontalAlignment="Left" Margin="371,29,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" Foreground="White">
+        <Label Content="{DynamicResource Op_text}" Grid.Column="1" HorizontalAlignment="Left" Margin="371,29,0,0" VerticalAlignment="Top" FontFamily="Comic Sans MS" Foreground="White">
             <Label.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black" Offset="1"/>
@@ -44,7 +44,7 @@
                 </LinearGradientBrush>
             </Label.Background>
         </Label>
-        <Label x:Name="Result" Content="Результат:" HorizontalAlignment="Left" Margin="10,199,0,0" VerticalAlignment="Top" Width="138" Grid.ColumnSpan="2" Foreground="White" FontFamily="Comic Sans MS" Height="26">
+        <Label x:Name="Result" Content="{DynamicResource Rs_text}" HorizontalAlignment="Left" Margin="10,199,0,0" VerticalAlignment="Top" Width="138" Grid.ColumnSpan="2" Foreground="White" FontFamily="Comic Sans MS" Height="26">
             <Label.Background>
                 <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
                     <GradientStop Color="Black" Offset="1"/>
@@ -54,13 +54,17 @@
             </Label.Background>
         </Label>
         <Menu Height="19" VerticalAlignment="Top" Grid.ColumnSpan="2" Background="#FF402020" Foreground="White" FontFamily="Comic Sans MS">
-            <MenuItem Header="Меню" Background="#FF402020">
-                <MenuItem Header="История" Background="#FF402020">
-                    <MenuItem Header="Сохранить" Background="#FF402020" Click="Button_Click_1"></MenuItem>
-                    <MenuItem Header="Загрузить" Background="#FF402020" Click="load_button_Click"></MenuItem>
+            <MenuItem Header="{DynamicResource Menu_button}" Background="#FF402020">
+                <MenuItem Header="{DynamicResource Hist_button}" Background="#FF402020">
+                    <MenuItem Header="{DynamicResource Safe_button}" Background="#FF402020" Click="Button_Click_1"/>
+                    <MenuItem Header="{DynamicResource Load_button}" Background="#FF402020" Click="load_button_Click"/>
+                </MenuItem>
+                <MenuItem Header="{DynamicResource Lang_button}" Background="#FF402020">
+                    <MenuItem Header="{DynamicResource Ru_button}" Background="#FF402020" Click="Button_Click_ru"/>
+                    <MenuItem Header="{DynamicResource En_button}" Background="#FF402020" Click="Button_Click_en"/>
                 </MenuItem>
                 <Separator />
-                <MenuItem Header="Выход" Background="#FF402020" Click="Exit_Click"></MenuItem>
+                <MenuItem Header="{DynamicResource Exit_button}" Background="#FF402020" Click="Exit_Click"/>
             </MenuItem>
         </Menu>
         <DockPanel Grid.ColumnSpan="2" Margin="0,279,0,0">
@@ -70,7 +74,7 @@
             </StatusBar>
         </DockPanel>
 
-        <ComboBox Name="Trigon" Height="24" VerticalAlignment="Top" Grid.Column="1" Margin="371,61,10,0" SelectionChanged="Trigon_SelectionChanged">
+        <ComboBox x:Name="Trigon" Height="24" VerticalAlignment="Top" Grid.Column="1" Margin="371,61,10,0" SelectionChanged="Trigon_SelectionChanged">
             <TextBlock x:Name="TSin" Text="Sin" />
             <TextBlock x:Name="TCos" Text="Cos" />
             <TextBlock x:Name="TTg" Text="Tg" />

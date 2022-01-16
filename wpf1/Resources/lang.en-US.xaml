@@ -1,0 +1,17 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:v="clr-namespace:System;assembly=mscorlib">
+    <v:String x:Key="MTitle">COTangens</v:String>
+    <v:String x:Key="Button_res">Calculate</v:String>
+    <v:String x:Key="An_text">Enter the angle:</v:String>
+    <v:String x:Key="Op_text">Select an operation:</v:String>
+    <v:String x:Key="Rs_text">Result:</v:String>
+    <v:String x:Key="Menu_button">Menu</v:String>
+    <v:String x:Key="Hist_button">History</v:String>
+    <v:String x:Key="Safe_button">Save</v:String>
+    <v:String x:Key="Load_button">Load</v:String>
+    <v:String x:Key="Exit_button">Exit</v:String>
+    <v:String x:Key="Lang_button">Language</v:String>
+    <v:String x:Key="En_button">English</v:String>
+    <v:String x:Key="Ru_button">Russian</v:String>
+</ResourceDictionary>
